@@ -1,0 +1,84 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "ClientBE",
+            "request": "launch",
+            "mainClass": "OOPSConcepts.Coupling.BadExample.ClientBE",
+            "projectName": "Demo1_6ca37b53"
+        },
+        {
+            "type": "java",
+            "name": "ClientGE",
+            "request": "launch",
+            "mainClass": "OOPSConcepts.Coupling.GoodExample.ClientGE",
+            "projectName": "Demo1_6ca37b53"
+        },
+        {
+            "type": "java",
+            "name": "ClientAggregation",
+            "request": "launch",
+            "mainClass": "OOPSConcepts.Aggregation.ClientAggregation",
+            "projectName": "Demo1_6ca37b53"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "Demo1_6ca37b53"
+        },
+        {
+            "type": "java",
+            "name": "ClientLambda",
+            "request": "launch",
+            "mainClass": "Concepts.Lambda.ClientLambda",
+            "projectName": "Demo1_6ca37b53"
+        },
+        {
+            "type": "java",
+            "name": "Client",
+            "request": "launch",
+            "mainClass": "DPrincipal.BadExample.Client",
+            "projectName": "Demo1_6ca37b53"
+        },
+        {
+            "type": "java",
+            "name": "ClientGE",
+            "request": "launch",
+            "mainClass": "DPrincipal.GoodExample.ClientGE",
+            "projectName": "Demo1_6ca37b53"
+        },
+        {
+            "type": "java",
+            "name": "Client(1)",
+            "request": "launch",
+            "mainClass": "IPrinciple.BadExample.Client",
+            "projectName": "Demo1_6ca37b53"
+        },
+        {
+            "type": "java",
+            "name": "Client(2)",
+            "request": "launch",
+            "mainClass": "IPrinciple.GoodExample.Client",
+            "projectName": "Demo1_6ca37b53"
+        },
+        {
+            "type": "java",
+            "name": "ClientAssociation",
+            "request": "launch",
+            "mainClass": "OOPSConcepts.Association.ClientAssociation",
+            "projectName": "Demo1_6ca37b53"
+        }
+    ]
+}
