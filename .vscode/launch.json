@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ClientComparator",
+            "request": "launch",
+            "mainClass": "Concepts.Comparator_Comparable.ClientComparator",
+            "projectName": "Demo1_6ca37b53"
+        },
+        {
+            "type": "java",
+            "name": "Client",
+            "request": "launch",
+            "mainClass": "Concepts.Comparator_Comparable.Client",
+            "projectName": "Demo1_6ca37b53"
+        },
+        {
+            "type": "java",
             "name": "ClientBE",
             "request": "launch",
             "mainClass": "OOPSConcepts.Coupling.BadExample.ClientBE",

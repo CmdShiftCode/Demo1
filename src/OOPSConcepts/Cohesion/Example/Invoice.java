@@ -35,4 +35,8 @@ public class Invoice {
 
     // Bad example i can other functions
     
+    public void genReport()
+    {
+        System.out.println("this will generate report");
+    }
 }
